@@ -1,7 +1,8 @@
-## Telegram messenger for Android
+## ChatAI is an enhanced unofficial Telegram client with built-in AI translation.
 
-[Telegram](https://telegram.org) is a messaging app with a focus on speed and security. It’s superfast, simple and free.
-This repo contains the official source code for [Telegram App for Android](https://play.google.com/store/apps/details?id=org.telegram.messenger).
+Based on the open-source code and powerful API of Telegram — one of the most secure and feature-rich messengers in the world — ChatAI retains all the core features provided by the official Telegram app.
+The ChatAI team builds upon this foundation by introducing innovative enhancements, including built-in message translation, allowing users to seamlessly understand and communicate across languages, all while preserving Telegram’s strong privacy and security standards.
+ChatAI is committed to improving user communication with intelligent tools, without compromising your data or experience.
 
 ## Creating your Telegram Application
 
